@@ -93,7 +93,7 @@ nav a:hover:before{width:100%;}
 
 .skill-item img{width: 5rem; height:5rem; border-radius: 50%;border: 5px solid  #148f77;}
 
-.skill-item h3{font-size:1.5rem; padding: 10px 0;}
+.skill-item h3{font-size:1.5rem; padding: 10px 0;text-transform: uppercase;}
 
 .skill-item p{font-size:1rem;padding:10px 0;}
 
